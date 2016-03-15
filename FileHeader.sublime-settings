@@ -1,0 +1,95 @@
+{
+    /*
+    options
+    =======
+    */
+
+    /*
+    Below is the variables you render templater.
+    */
+    "Default": {
+        /*
+        Builtin Variables
+        =================
+
+        - create_time
+
+            The file created time. It will be automatically set when you create
+            a new file if you use it.
+
+            Can't be set custom.
+
+        - author
+
+            The file creator.
+
+            FileHeader will set it automatically. If it's in
+            a git repository and the `user.name` has been set, `autor`
+            will set to `user.name`, otherwise it will be set to current
+            system user.
+
+            Can be set custom.
+
+        - last_modified_by
+
+            The file last modified by who? It is specially useful when
+            cooperation programming.
+
+            FileHeader will set it automatically. If it's in
+            a git repository and the `user.name` has been set, `autor`
+            will set to `user.name`, otherwise it will be set to current
+            system logined user.
+
+            Can be set custom.
+
+        - last_modified_time
+
+            The file last modified time.
+
+            FileHeader will set it automatically when you save the file.
+
+            Can't be set custom.
+
+        - file_path
+
+            The absolute path of the current file.
+
+            FileHeader will update it automatically when you change it.
+
+            Can't be set custom.
+
+        - file_name
+
+            The name of current file with extension.
+
+            FileHeader will update it automatically when you change it.
+
+            Can't be set custom.
+
+        - file_name_without_extension
+
+            The name of current file without extension.
+
+            FileHeader will update it automatically when you change it.
+
+            Can't be set custom.
+
+        - project_name
+
+            The project name.
+
+            Note: `project_name` only works in ST3.
+
+            Can't be set custom.
+        */
+
+        /*
+        Email
+        */
+        "email": "scomte.life@gmail.com",
+        "author" : "Stéphane Comte",
+        "last_modified_by" : "Stéphane Comte"
+
+        // You can add more here......
+    }
+}
