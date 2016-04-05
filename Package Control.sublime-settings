@@ -38,6 +38,8 @@
 		"SideBarEnhancements",
 		"StringEncode",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeOnSaveBuild",
 		"SVG-Snippets",
 		"Syntax Highlighting for Sass",
