@@ -43,6 +43,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jshint",
 		"SublimeOnSaveBuild",
 		"SVG-Snippets",
 		"Syntax Highlighting for Sass",
