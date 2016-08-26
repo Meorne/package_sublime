@@ -1,7 +1,7 @@
 {
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/Mustang (SL).tmTheme",
-	"font_size": 11,
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"Vintage"
