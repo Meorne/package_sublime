@@ -15,7 +15,6 @@
 		"DoxyDoxygen",
 		"Emmet",
 		"Emmet Css Snippets",
-		"EncodingHelper",
 		"File History",
 		"FileDiffs",
 		"FileHeader",
@@ -53,7 +52,6 @@
 		"Syntax Highlighting for Sass",
 		"Theme - SoDaReloaded",
 		"TrailingSpaces",
-		"WordCount",
 		"WordPress"
 	]
 }

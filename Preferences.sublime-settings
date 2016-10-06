@@ -4,6 +4,7 @@
 	"font_size": 9,
 	"ignored_packages":
 	[
+		"Nodejs",
 		"Vintage"
 	],
 	"show_encoding": true,
